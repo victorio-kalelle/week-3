@@ -1,0 +1,791 @@
+age,years_experience,education_level,department,performance_score,performance_category,annual_performance,performance_level,age_group,experience_band
+58,23,High School,Finance,10.0,Excellent,0.43478260869565216,High,Senior,Senior
+34,15,High School,HR,5.0,Good,0.3333333333333333,Medium,Mid-Career,Mid
+40,29,PhD,HR,4.0,Average,0.13793103448275862,Low,Mid-Career,Senior
+40,36,PhD,Finance,2.0,Poor,0.05555555555555555,Low,Mid-Career,Senior
+58,13,PhD,Tech,4.0,Average,0.3076923076923077,Low,Senior,Mid
+38,32,PhD,Tech,10.0,Excellent,0.3125,High,Mid-Career,Senior
+42,7,PhD,Finance,10.0,Excellent,1.4285714285714286,High,Mid-Career,Junior
+30,22,Master,HR,3.0,Poor,0.13636363636363635,Low,Mid-Career,Senior
+30,28,Master,HR,10.0,Excellent,0.35714285714285715,High,Mid-Career,Senior
+43,2,High School,Tech,1.0,Poor,0.5,Low,Mid-Career,Entry
+55,6,PhD,HR,8.0,Very Good,1.3333333333333333,High,Senior,Junior
+59,28,High School,Sales,5.0,Average,0.17857142857142858,Low,Senior,Senior
+43,28,PhD,Tech,4.0,Average,0.14285714285714285,Low,Mid-Career,Senior
+22,20,PhD,HR,8.0,Very Good,0.4,High,Young,Mid
+41,30,Master,Tech,7.0,Good,0.23333333333333334,Medium,Mid-Career,Senior
+21,11,Master,Sales,2.0,Poor,0.18181818181818182,Low,Young,Mid
+43,28,Bachelor,Tech,1.0,Poor,0.03571428571428571,Low,Mid-Career,Senior
+49,25,Master,Tech,4.0,Average,0.16,Low,Senior,Senior
+57,39,Bachelor,Tech,8.0,Very Good,0.20512820512820512,High,Senior,Senior
+21,33,Bachelor,Tech,2.0,Poor,0.06060606060606061,Low,Young,Senior
+40,1,Bachelor,Sales,3.0,Poor,3.0,Low,Mid-Career,Entry
+52,27,Bachelor,Finance,1.0,Poor,0.037037037037037035,Low,Senior,Senior
+31,13,Bachelor,Tech,1.0,Poor,0.07692307692307693,Low,Mid-Career,Mid
+41,3,High School,Tech,3.0,Poor,1.0,Low,Mid-Career,Entry
+44,39,Master,HR,5.0,Average,0.1282051282051282,Low,Mid-Career,Senior
+46,6,Bachelor,Tech,3.0,Poor,0.5,Low,Senior,Junior
+47,8,PhD,HR,1.0,Poor,0.125,Low,Senior,Junior
+35,27,Master,Finance,1.0,Poor,0.037037037037037035,Low,Mid-Career,Senior
+34,9,Master,Sales,8.0,Very Good,0.8888888888888888,High,Mid-Career,Junior
+22,37,Bachelor,Sales,10.0,Excellent,0.2702702702702703,High,Young,Senior
+56,33,High School,Finance,2.0,Poor,0.06060606060606061,Low,Senior,Senior
+26,24,Bachelor,Sales,3.0,Poor,0.125,Low,Young,Senior
+40,15,High School,Finance,2.0,Poor,0.13333333333333333,Low,Mid-Career,Mid
+28,32,PhD,Finance,3.0,Poor,0.09375,Low,Young,Senior
+58,32,Master,Finance,7.0,Good,0.21875,Medium,Senior,Senior
+37,24,PhD,Sales,1.0,Poor,0.041666666666666664,Low,Mid-Career,Senior
+23,12,High School,HR,10.0,Excellent,0.8333333333333334,High,Young,Mid
+44,39,High School,Finance,8.0,Very Good,0.20512820512820512,High,Mid-Career,Senior
+33,2,PhD,Tech,10.0,Excellent,5.0,High,Mid-Career,Entry
+28,3,High School,Sales,10.0,Excellent,3.3333333333333335,High,Young,Entry
+45,37,PhD,Finance,10.0,Excellent,0.2702702702702703,High,Mid-Career,Senior
+21,17,Master,Finance,2.0,Poor,0.11764705882352941,Low,Young,Mid
+39,2,PhD,Tech,3.0,Poor,1.5,Low,Mid-Career,Entry
+47,2,Master,HR,9.0,Very Good,4.5,High,Senior,Entry
+26,28,PhD,HR,7.0,Good,0.25,Medium,Young,Senior
+27,23,High School,HR,4.0,Average,0.17391304347826086,Low,Young,Senior
+54,37,PhD,Finance,10.0,Excellent,0.2702702702702703,High,Senior,Senior
+33,32,High School,Finance,5.0,Average,0.15625,Low,Mid-Career,Senior
+36,33,PhD,Finance,2.0,Poor,0.06060606060606061,Low,Mid-Career,Senior
+55,1,PhD,Sales,8.0,Very Good,8.0,High,Senior,Entry
+59,19,Bachelor,Tech,4.0,Average,0.21052631578947367,Low,Senior,Mid
+23,2,High School,Finance,9.0,Very Good,4.5,High,Young,Entry
+21,26,Bachelor,Tech,5.0,Average,0.19230769230769232,Low,Young,Senior
+25,32,High School,Tech,9.0,Very Good,0.28125,High,Young,Senior
+23,6,Bachelor,HR,4.0,Average,0.6666666666666666,Low,Young,Junior
+48,32,Master,Sales,10.0,Excellent,0.3125,High,Senior,Senior
+37,4,PhD,Finance,5.0,Average,1.25,Low,Mid-Career,Entry
+45,11,High School,HR,9.0,Very Good,0.8181818181818182,High,Mid-Career,Mid
+53,17,High School,HR,8.0,Very Good,0.47058823529411764,High,Senior,Mid
+29,38,PhD,Finance,3.0,Poor,0.07894736842105263,Low,Young,Senior
+55,24,High School,Tech,1.0,Poor,0.041666666666666664,Low,Senior,Senior
+33,5,High School,HR,3.0,Poor,0.6,Low,Mid-Career,Entry
+50,34,Bachelor,Tech,4.0,Average,0.11764705882352941,Low,Senior,Senior
+34,6,High School,Sales,2.0,Poor,0.3333333333333333,Low,Mid-Career,Junior
+27,22,Master,Tech,1.0,Poor,0.045454545454545456,Low,Young,Senior
+33,11,Master,Sales,7.0,Good,0.6363636363636364,Medium,Mid-Career,Mid
+42,16,PhD,Tech,8.0,Very Good,0.5,High,Mid-Career,Mid
+59,33,High School,HR,7.0,Good,0.21212121212121213,Medium,Senior,Senior
+40,9,PhD,HR,5.0,Average,0.5555555555555556,Low,Mid-Career,Junior
+35,6,Master,Sales,1.0,Poor,0.16666666666666666,Low,Mid-Career,Junior
+37,16,High School,Finance,7.0,Good,0.4375,Medium,Mid-Career,Mid
+43,29,High School,Sales,7.0,Good,0.2413793103448276,Medium,Mid-Career,Senior
+45,3,PhD,Sales,9.0,Very Good,3.0,High,Mid-Career,Entry
+44,20,Master,Tech,3.0,Poor,0.15,Low,Mid-Career,Mid
+48,36,High School,Tech,9.0,Very Good,0.25,High,Senior,Senior
+34,19,PhD,Sales,1.0,Poor,0.05263157894736842,Low,Mid-Career,Mid
+20,26,Master,HR,1.0,Poor,0.038461538461538464,Low,Young,Senior
+44,3,PhD,Tech,4.0,Average,1.3333333333333333,Low,Mid-Career,Entry
+26,19,Bachelor,Finance,9.0,Very Good,0.47368421052631576,High,Young,Mid
+28,20,High School,Tech,6.0,Good,0.3,Medium,Young,Mid
+43,32,Bachelor,Tech,3.0,Poor,0.09375,Low,Mid-Career,Senior
+20,7,Master,Finance,1.0,Poor,0.14285714285714285,Low,Young,Junior
+27,33,Bachelor,Sales,4.0,Average,0.12121212121212122,Low,Young,Senior
+43,39,Bachelor,Finance,9.0,Very Good,0.23076923076923078,High,Mid-Career,Senior
+30,18,Master,Sales,3.0,Poor,0.16666666666666666,Low,Mid-Career,Mid
+36,1,PhD,Sales,9.0,Very Good,9.0,High,Mid-Career,Entry
+27,11,Bachelor,Sales,7.0,Good,0.6363636363636364,Medium,Young,Mid
+54,28,PhD,Finance,4.0,Average,0.14285714285714285,Low,Senior,Senior
+54,25,Bachelor,Sales,3.0,Poor,0.12,Low,Senior,Senior
+52,23,PhD,HR,10.0,Excellent,0.43478260869565216,High,Senior,Senior
+24,31,Master,Finance,5.0,Average,0.16129032258064516,Low,Young,Senior
+58,30,Bachelor,HR,5.0,Average,0.16666666666666666,Low,Senior,Senior
+47,35,Master,Sales,3.0,Poor,0.08571428571428572,Low,Senior,Senior
+26,7,Bachelor,Tech,9.0,Very Good,1.2857142857142858,High,Young,Junior
+28,16,Master,Sales,4.0,Average,0.25,Low,Young,Mid
+27,26,Master,HR,5.0,Average,0.19230769230769232,Low,Young,Senior
+31,2,Bachelor,HR,4.0,Average,2.0,Low,Mid-Career,Entry
+53,1,Bachelor,Finance,5.0,Average,5.0,Low,Senior,Entry
+52,12,Bachelor,Tech,7.0,Good,0.5833333333333334,Medium,Senior,Mid
+42,5,High School,Finance,9.0,Very Good,1.8,High,Mid-Career,Entry
+43,37,PhD,HR,7.0,Good,0.1891891891891892,Medium,Mid-Career,Senior
+56,32,High School,Sales,5.0,Average,0.15625,Low,Senior,Senior
+54,9,High School,Tech,10.0,Excellent,1.1111111111111112,High,Senior,Junior
+59,35,Master,Sales,10.0,Excellent,0.2857142857142857,High,Senior,Senior
+41,19,Bachelor,Sales,7.0,Good,0.3684210526315789,Medium,Mid-Career,Mid
+46,16,PhD,Tech,10.0,Excellent,0.625,High,Senior,Mid
+54,3,Master,Finance,5.0,Average,1.6666666666666667,Low,Senior,Entry
+20,20,High School,Sales,3.0,Poor,0.15,Low,Young,Mid
+54,24,Bachelor,HR,7.0,Good,0.2916666666666667,Medium,Senior,Senior
+56,33,Master,Sales,2.0,Poor,0.06060606060606061,Low,Senior,Senior
+33,24,Bachelor,Tech,9.0,Very Good,0.375,High,Mid-Career,Senior
+22,11,Master,Tech,10.0,Excellent,0.9090909090909091,High,Young,Mid
+20,8,Bachelor,Tech,10.0,Excellent,1.25,High,Young,Junior
+24,36,High School,Finance,1.0,Poor,0.027777777777777776,Low,Young,Senior
+45,38,PhD,Sales,6.0,Good,0.15789473684210525,Medium,Mid-Career,Senior
+33,20,High School,Finance,7.0,Good,0.35,Medium,Mid-Career,Mid
+58,35,PhD,Finance,8.0,Very Good,0.22857142857142856,High,Senior,Senior
+46,25,Bachelor,Tech,10.0,Excellent,0.4,High,Senior,Senior
+28,35,Master,Tech,9.0,Very Good,0.2571428571428571,High,Young,Senior
+34,25,High School,Finance,2.0,Poor,0.08,Low,Mid-Career,Senior
+34,29,PhD,Sales,10.0,Excellent,0.3448275862068966,High,Mid-Career,Senior
+45,18,High School,HR,2.0,Poor,0.1111111111111111,Low,Mid-Career,Mid
+32,18,PhD,Finance,5.0,Average,0.2777777777777778,Low,Mid-Career,Mid
+51,2,High School,Sales,5.0,Average,2.5,Low,Senior,Entry
+58,35,PhD,Tech,6.0,Good,0.17142857142857143,Medium,Senior,Senior
+51,16,PhD,Tech,3.0,Poor,0.1875,Low,Senior,Mid
+23,36,Bachelor,Sales,8.0,Very Good,0.2222222222222222,High,Young,Senior
+49,33,PhD,HR,1.0,Poor,0.030303030303030304,Low,Senior,Senior
+56,4,Bachelor,Tech,6.0,Good,1.5,Medium,Senior,Entry
+58,19,Bachelor,Tech,7.0,Good,0.3684210526315789,Medium,Senior,Mid
+48,26,PhD,HR,5.0,Average,0.19230769230769232,Low,Senior,Senior
+34,3,High School,HR,5.0,Average,1.6666666666666667,Low,Mid-Career,Entry
+27,19,PhD,Tech,2.0,Poor,0.10526315789473684,Low,Young,Mid
+40,20,High School,HR,3.0,Poor,0.15,Low,Mid-Career,Mid
+58,32,High School,Sales,7.0,Good,0.21875,Medium,Senior,Senior
+38,7,PhD,Sales,6.0,Good,0.8571428571428571,Medium,Mid-Career,Junior
+42,33,PhD,Tech,2.0,Poor,0.06060606060606061,Low,Mid-Career,Senior
+30,39,PhD,Finance,6.0,Good,0.15384615384615385,Medium,Mid-Career,Senior
+30,18,PhD,Tech,2.0,Poor,0.1111111111111111,Low,Mid-Career,Mid
+43,1,Master,Tech,2.0,Poor,2.0,Low,Mid-Career,Entry
+55,11,Bachelor,Finance,2.0,Poor,0.18181818181818182,Low,Senior,Mid
+59,28,High School,Finance,3.0,Poor,0.10714285714285714,Low,Senior,Senior
+43,25,PhD,Finance,2.0,Poor,0.08,Low,Mid-Career,Senior
+22,23,PhD,Sales,4.0,Average,0.17391304347826086,Low,Young,Senior
+41,31,PhD,HR,9.0,Very Good,0.2903225806451613,High,Mid-Career,Senior
+21,30,Master,Sales,6.0,Good,0.2,Medium,Young,Senior
+43,35,PhD,HR,1.0,Poor,0.02857142857142857,Low,Mid-Career,Senior
+49,7,PhD,Sales,8.0,Very Good,1.1428571428571428,High,Senior,Junior
+57,16,PhD,HR,7.0,Good,0.4375,Medium,Senior,Mid
+21,26,Bachelor,Sales,10.0,Excellent,0.38461538461538464,High,Young,Senior
+40,2,Master,Finance,3.0,Poor,1.5,Low,Mid-Career,Entry
+52,1,PhD,Tech,1.0,Poor,1.0,Low,Senior,Entry
+31,12,High School,Sales,5.0,Average,0.4166666666666667,Low,Mid-Career,Mid
+41,5,High School,HR,4.0,Average,0.8,Low,Mid-Career,Entry
+44,37,High School,Finance,10.0,Excellent,0.2702702702702703,High,Mid-Career,Senior
+46,32,Master,Sales,8.0,Very Good,0.25,High,Senior,Senior
+47,9,Master,Sales,1.0,Poor,0.1111111111111111,Low,Senior,Junior
+35,35,High School,Finance,10.0,Excellent,0.2857142857142857,High,Mid-Career,Senior
+34,19,PhD,Sales,1.0,Poor,0.05263157894736842,Low,Mid-Career,Mid
+22,16,Master,Tech,4.0,Average,0.25,Low,Young,Mid
+56,3,High School,Sales,8.0,Very Good,2.6666666666666665,High,Senior,Entry
+26,20,High School,Tech,5.0,Average,0.25,Low,Young,Mid
+40,24,PhD,Tech,2.0,Poor,0.08333333333333333,Low,Mid-Career,Senior
+28,33,Bachelor,Finance,6.0,Good,0.18181818181818182,Medium,Young,Senior
+58,24,Master,Sales,5.0,Average,0.20833333333333334,Low,Senior,Senior
+37,11,PhD,Finance,2.0,Poor,0.18181818181818182,Low,Mid-Career,Mid
+23,8,High School,Sales,3.0,Poor,0.375,Low,Young,Junior
+44,36,High School,Sales,9.0,Very Good,0.25,High,Mid-Career,Senior
+33,38,PhD,HR,7.0,Good,0.18421052631578946,Medium,Mid-Career,Senior
+28,20,Master,Sales,7.0,Good,0.35,Medium,Young,Mid
+45,35,Bachelor,Finance,6.0,Good,0.17142857142857143,Medium,Mid-Career,Senior
+21,25,Bachelor,Tech,8.0,Very Good,0.32,High,Young,Senior
+39,35,High School,Sales,4.0,Average,0.11428571428571428,Low,Mid-Career,Senior
+47,25,Master,HR,8.0,Very Good,0.32,High,Senior,Senior
+26,29,Bachelor,Finance,4.0,Average,0.13793103448275862,Low,Young,Senior
+27,18,Master,Sales,8.0,Very Good,0.4444444444444444,High,Young,Mid
+54,18,Master,Finance,9.0,Very Good,0.5,High,Senior,Mid
+33,2,High School,HR,3.0,Poor,1.5,Low,Mid-Career,Entry
+36,35,Bachelor,HR,3.0,Poor,0.08571428571428572,Low,Mid-Career,Senior
+55,16,PhD,Finance,2.0,Poor,0.125,Low,Senior,Mid
+59,36,High School,Sales,10.0,Excellent,0.2777777777777778,High,Senior,Senior
+23,33,Bachelor,Tech,3.0,Poor,0.09090909090909091,Low,Young,Senior
+21,4,Bachelor,HR,3.0,Poor,0.75,Low,Young,Entry
+25,33,Bachelor,Sales,5.0,Average,0.15151515151515152,Low,Young,Senior
+23,14,Bachelor,Sales,5.0,Average,0.35714285714285715,Low,Young,Mid
+48,21,Bachelor,Tech,2.0,Poor,0.09523809523809523,Low,Senior,Senior
+37,20,Master,HR,10.0,Excellent,0.5,High,Mid-Career,Mid
+45,8,High School,HR,6.0,Good,0.75,Medium,Mid-Career,Junior
+53,7,Master,Sales,5.0,Average,0.7142857142857143,Low,Senior,Junior
+29,3,PhD,Sales,6.0,Good,2.0,Medium,Young,Entry
+55,17,Bachelor,Tech,1.0,Poor,0.058823529411764705,Low,Senior,Mid
+33,33,High School,Tech,5.0,Average,0.15151515151515152,Low,Mid-Career,Senior
+50,12,Bachelor,HR,9.0,Very Good,0.75,High,Senior,Mid
+34,22,High School,Finance,10.0,Excellent,0.45454545454545453,High,Mid-Career,Senior
+27,22,Master,HR,2.0,Poor,0.09090909090909091,Low,Young,Senior
+33,30,High School,Sales,1.0,Poor,0.03333333333333333,Low,Mid-Career,Senior
+42,38,PhD,HR,10.0,Excellent,0.2631578947368421,High,Mid-Career,Senior
+59,38,PhD,Finance,9.0,Very Good,0.23684210526315788,High,Senior,Senior
+40,8,High School,Tech,10.0,Excellent,1.25,High,Mid-Career,Junior
+35,27,High School,Finance,9.0,Very Good,0.3333333333333333,High,Mid-Career,Senior
+37,27,High School,Finance,9.0,Very Good,0.3333333333333333,High,Mid-Career,Senior
+43,34,High School,Finance,6.0,Good,0.17647058823529413,Medium,Mid-Career,Senior
+45,21,PhD,Tech,8.0,Very Good,0.38095238095238093,High,Mid-Career,Senior
+44,30,Bachelor,Finance,1.0,Poor,0.03333333333333333,Low,Mid-Career,Senior
+48,33,High School,Finance,10.0,Excellent,0.30303030303030304,High,Senior,Senior
+34,28,High School,Finance,4.0,Average,0.14285714285714285,Low,Mid-Career,Senior
+20,33,PhD,Sales,1.0,Poor,0.030303030303030304,Low,Young,Senior
+44,5,PhD,Finance,8.0,Very Good,1.6,High,Mid-Career,Entry
+26,19,Master,Tech,1.0,Poor,0.05263157894736842,Low,Young,Mid
+28,4,High School,Finance,3.0,Poor,0.75,Low,Young,Entry
+43,35,Master,Finance,4.0,Average,0.11428571428571428,Low,Mid-Career,Senior
+20,17,PhD,Tech,8.0,Very Good,0.47058823529411764,High,Young,Mid
+27,28,PhD,Finance,6.0,Good,0.21428571428571427,Medium,Young,Senior
+43,30,Bachelor,Tech,10.0,Excellent,0.3333333333333333,High,Mid-Career,Senior
+30,29,High School,Finance,7.0,Good,0.2413793103448276,Medium,Mid-Career,Senior
+36,6,Master,Tech,8.0,Very Good,1.3333333333333333,High,Mid-Career,Junior
+27,35,PhD,Finance,2.0,Poor,0.05714285714285714,Low,Young,Senior
+54,37,PhD,Finance,10.0,Excellent,0.2702702702702703,High,Senior,Senior
+54,24,Master,Sales,8.0,Very Good,0.3333333333333333,High,Senior,Senior
+52,29,Bachelor,Sales,3.0,Poor,0.10344827586206896,Low,Senior,Senior
+24,31,PhD,Finance,7.0,Good,0.22580645161290322,Medium,Young,Senior
+58,35,High School,Finance,3.0,Poor,0.08571428571428572,Low,Senior,Senior
+47,33,PhD,HR,7.0,Good,0.21212121212121213,Medium,Senior,Senior
+26,21,High School,Tech,2.0,Poor,0.09523809523809523,Low,Young,Senior
+28,32,Master,HR,10.0,Excellent,0.3125,High,Young,Senior
+27,23,High School,Sales,6.0,Good,0.2608695652173913,Medium,Young,Senior
+31,33,Master,Sales,3.0,Poor,0.09090909090909091,Low,Mid-Career,Senior
+53,3,High School,Sales,3.0,Poor,1.0,Low,Senior,Entry
+52,18,Master,Sales,9.0,Very Good,0.5,High,Senior,Mid
+42,25,High School,Finance,7.0,Good,0.28,Medium,Mid-Career,Senior
+43,31,Bachelor,Sales,5.0,Average,0.16129032258064516,Low,Mid-Career,Senior
+56,3,High School,Finance,10.0,Excellent,3.3333333333333335,High,Senior,Entry
+54,24,High School,Finance,7.0,Good,0.2916666666666667,Medium,Senior,Senior
+59,32,Bachelor,Sales,9.0,Very Good,0.28125,High,Senior,Senior
+41,22,PhD,Sales,1.0,Poor,0.045454545454545456,Low,Mid-Career,Senior
+46,23,PhD,Tech,7.0,Good,0.30434782608695654,Medium,Senior,Senior
+54,2,High School,HR,6.0,Good,3.0,Medium,Senior,Entry
+20,27,Bachelor,Sales,10.0,Excellent,0.37037037037037035,High,Young,Senior
+54,2,High School,Tech,9.0,Very Good,4.5,High,Senior,Entry
+56,26,Master,Tech,1.0,Poor,0.038461538461538464,Low,Senior,Senior
+33,17,Master,HR,4.0,Average,0.23529411764705882,Low,Mid-Career,Mid
+22,33,High School,Finance,9.0,Very Good,0.2727272727272727,High,Young,Senior
+20,9,PhD,Sales,4.0,Average,0.4444444444444444,Low,Young,Junior
+24,39,PhD,HR,10.0,Excellent,0.2564102564102564,High,Young,Senior
+45,29,High School,Sales,3.0,Poor,0.10344827586206896,Low,Mid-Career,Senior
+33,26,High School,Tech,9.0,Very Good,0.34615384615384615,High,Mid-Career,Senior
+58,35,Master,Tech,2.0,Poor,0.05714285714285714,Low,Senior,Senior
+46,25,PhD,Finance,4.0,Average,0.16,Low,Senior,Senior
+28,24,High School,Tech,6.0,Good,0.25,Medium,Young,Senior
+34,13,Master,Tech,2.0,Poor,0.15384615384615385,Low,Mid-Career,Mid
+34,7,PhD,HR,8.0,Very Good,1.1428571428571428,High,Mid-Career,Junior
+45,36,Bachelor,Sales,8.0,Very Good,0.2222222222222222,High,Mid-Career,Senior
+32,20,Master,Sales,1.0,Poor,0.05,Low,Mid-Career,Mid
+51,1,PhD,HR,3.0,Poor,3.0,Low,Senior,Entry
+58,8,PhD,Finance,10.0,Excellent,1.25,High,Senior,Junior
+51,16,Master,Sales,9.0,Very Good,0.5625,High,Senior,Mid
+23,14,Bachelor,Tech,5.0,Average,0.35714285714285715,Low,Young,Mid
+49,12,Master,Sales,6.0,Good,0.5,Medium,Senior,Mid
+56,23,PhD,Tech,4.0,Average,0.17391304347826086,Low,Senior,Senior
+42,15,High School,Finance,10.0,Excellent,0.6666666666666666,High,Mid-Career,Mid
+58,28,High School,HR,2.0,Poor,0.07142857142857142,Low,Senior,Senior
+34,34,Master,Sales,8.0,Very Good,0.23529411764705882,High,Mid-Career,Senior
+48,2,PhD,HR,6.0,Good,3.0,Medium,Senior,Entry
+55,32,High School,Sales,5.0,Average,0.15625,Low,Senior,Senior
+32,23,PhD,Tech,9.0,Very Good,0.391304347826087,High,Mid-Career,Senior
+51,22,Master,HR,1.0,Poor,0.045454545454545456,Low,Senior,Senior
+26,25,High School,Sales,5.0,Average,0.2,Low,Young,Senior
+41,22,PhD,Tech,6.0,Good,0.2727272727272727,Medium,Mid-Career,Senior
+47,22,High School,HR,5.0,Average,0.22727272727272727,Low,Senior,Senior
+21,6,Master,HR,6.0,Good,1.0,Medium,Young,Junior
+25,15,PhD,Sales,6.0,Good,0.4,Medium,Young,Mid
+47,37,High School,Sales,7.0,Good,0.1891891891891892,Medium,Senior,Senior
+47,33,Master,Sales,4.0,Average,0.12121212121212122,Low,Senior,Senior
+39,8,High School,Tech,8.0,Very Good,1.0,High,Mid-Career,Junior
+49,5,High School,Sales,7.0,Good,1.4,Medium,Senior,Entry
+30,39,Bachelor,HR,9.0,Very Good,0.23076923076923078,High,Mid-Career,Senior
+47,4,Bachelor,HR,7.0,Good,1.75,Medium,Senior,Entry
+44,6,Master,Sales,3.0,Poor,0.5,Low,Mid-Career,Junior
+58,32,Bachelor,Sales,3.0,Poor,0.09375,Low,Senior,Senior
+52,30,Master,Finance,8.0,Very Good,0.26666666666666666,High,Senior,Senior
+20,35,Bachelor,HR,5.0,Average,0.14285714285714285,Low,Young,Senior
+46,16,High School,Tech,4.0,Average,0.25,Low,Senior,Mid
+32,13,Master,Finance,8.0,Very Good,0.6153846153846154,High,Mid-Career,Mid
+22,30,Master,Sales,6.0,Good,0.2,Medium,Young,Senior
+58,19,High School,Sales,2.0,Poor,0.10526315789473684,Low,Senior,Mid
+25,17,Master,HR,4.0,Average,0.23529411764705882,Low,Young,Mid
+27,19,Master,Sales,4.0,Average,0.21052631578947367,Low,Young,Mid
+46,28,Bachelor,Tech,6.0,Good,0.21428571428571427,Medium,Senior,Senior
+28,26,Master,HR,6.0,Good,0.23076923076923078,Medium,Young,Senior
+56,37,PhD,Sales,1.0,Poor,0.02702702702702703,Low,Senior,Senior
+52,26,High School,HR,8.0,Very Good,0.3076923076923077,High,Senior,Senior
+43,23,Bachelor,Sales,6.0,Good,0.2608695652173913,Medium,Mid-Career,Senior
+34,9,Bachelor,Sales,3.0,Poor,0.3333333333333333,Low,Mid-Career,Junior
+51,12,PhD,Sales,9.0,Very Good,0.75,High,Senior,Mid
+51,1,High School,Tech,2.0,Poor,2.0,Low,Senior,Entry
+43,1,High School,Tech,8.0,Very Good,8.0,High,Mid-Career,Entry
+31,34,Bachelor,HR,10.0,Excellent,0.29411764705882354,High,Mid-Career,Senior
+58,32,Master,Sales,3.0,Poor,0.09375,Low,Senior,Senior
+21,25,Bachelor,Sales,5.0,Average,0.2,Low,Young,Senior
+22,1,High School,Tech,6.0,Good,6.0,Medium,Young,Entry
+56,16,PhD,Sales,10.0,Excellent,0.625,High,Senior,Mid
+36,39,Bachelor,Tech,6.0,Good,0.15384615384615385,Medium,Mid-Career,Senior
+21,5,High School,Sales,4.0,Average,0.8,Low,Young,Entry
+21,22,Bachelor,HR,3.0,Poor,0.13636363636363635,Low,Young,Senior
+47,29,Master,Sales,4.0,Average,0.13793103448275862,Low,Senior,Senior
+42,3,Bachelor,Sales,1.0,Poor,0.3333333333333333,Low,Mid-Career,Entry
+56,12,Bachelor,Finance,4.0,Average,0.3333333333333333,Low,Senior,Mid
+51,26,High School,Tech,1.0,Poor,0.038461538461538464,Low,Senior,Senior
+52,16,High School,Sales,1.0,Poor,0.0625,Low,Senior,Mid
+20,37,High School,Sales,10.0,Excellent,0.2702702702702703,High,Young,Senior
+38,22,Bachelor,Finance,6.0,Good,0.2727272727272727,Medium,Mid-Career,Senior
+21,29,Master,Finance,5.0,Average,0.1724137931034483,Low,Young,Senior
+45,14,PhD,Tech,4.0,Average,0.2857142857142857,Low,Mid-Career,Mid
+51,28,PhD,Finance,3.0,Poor,0.10714285714285714,Low,Senior,Senior
+25,5,High School,HR,1.0,Poor,0.2,Low,Young,Entry
+51,30,High School,Finance,6.0,Good,0.2,Medium,Senior,Senior
+23,5,Bachelor,HR,2.0,Poor,0.4,Low,Young,Entry
+30,12,PhD,Tech,8.0,Very Good,0.6666666666666666,High,Mid-Career,Mid
+36,16,High School,Tech,10.0,Excellent,0.625,High,Mid-Career,Mid
+57,26,Master,Tech,5.0,Average,0.19230769230769232,Low,Senior,Senior
+43,26,Master,Tech,7.0,Good,0.2692307692307692,Medium,Mid-Career,Senior
+24,21,High School,Tech,10.0,Excellent,0.47619047619047616,High,Young,Senior
+53,39,High School,HR,2.0,Poor,0.05128205128205128,Low,Senior,Senior
+25,36,PhD,HR,8.0,Very Good,0.2222222222222222,High,Young,Senior
+41,33,PhD,Tech,2.0,Poor,0.06060606060606061,Low,Mid-Career,Senior
+30,30,Bachelor,Finance,4.0,Average,0.13333333333333333,Low,Mid-Career,Senior
+35,37,PhD,Sales,1.0,Poor,0.02702702702702703,Low,Mid-Career,Senior
+52,23,Master,Tech,5.0,Average,0.21739130434782608,Low,Senior,Senior
+28,10,Master,Finance,9.0,Very Good,0.9,High,Young,Junior
+25,5,High School,Sales,1.0,Poor,0.2,Low,Young,Entry
+35,36,PhD,Tech,9.0,Very Good,0.25,High,Mid-Career,Senior
+48,34,Bachelor,Tech,8.0,Very Good,0.23529411764705882,High,Senior,Senior
+22,31,Master,HR,6.0,Good,0.1935483870967742,Medium,Young,Senior
+39,10,Master,Sales,7.0,Good,0.7,Medium,Mid-Career,Junior
+55,19,Bachelor,Sales,3.0,Poor,0.15789473684210525,Low,Senior,Mid
+58,31,Bachelor,HR,2.0,Poor,0.06451612903225806,Low,Senior,Senior
+48,3,PhD,HR,1.0,Poor,0.3333333333333333,Low,Senior,Entry
+34,24,Master,HR,3.0,Poor,0.125,Low,Mid-Career,Senior
+27,32,High School,Finance,6.0,Good,0.1875,Medium,Young,Senior
+40,22,Master,Sales,8.0,Very Good,0.36363636363636365,High,Mid-Career,Senior
+58,23,High School,Finance,9.0,Very Good,0.391304347826087,High,Senior,Senior
+38,2,Bachelor,Finance,7.0,Good,3.5,Medium,Mid-Career,Entry
+42,27,Master,HR,4.0,Average,0.14814814814814814,Low,Mid-Career,Senior
+30,2,High School,Tech,6.0,Good,3.0,Medium,Mid-Career,Entry
+30,26,Bachelor,Tech,5.0,Average,0.19230769230769232,Low,Mid-Career,Senior
+43,17,Master,Finance,8.0,Very Good,0.47058823529411764,High,Mid-Career,Mid
+55,33,Master,Finance,1.0,Poor,0.030303030303030304,Low,Senior,Senior
+59,9,High School,HR,1.0,Poor,0.1111111111111111,Low,Senior,Junior
+43,39,High School,Finance,6.0,Good,0.15384615384615385,Medium,Mid-Career,Senior
+22,29,High School,HR,10.0,Excellent,0.3448275862068966,High,Young,Senior
+41,26,Bachelor,Tech,2.0,Poor,0.07692307692307693,Low,Mid-Career,Senior
+21,35,High School,Tech,5.0,Average,0.14285714285714285,Low,Young,Senior
+43,25,Master,Sales,1.0,Poor,0.04,Low,Mid-Career,Senior
+49,24,Master,Tech,7.0,Good,0.2916666666666667,Medium,Senior,Senior
+57,13,High School,Finance,1.0,Poor,0.07692307692307693,Low,Senior,Mid
+21,7,High School,Tech,4.0,Average,0.5714285714285714,Low,Young,Junior
+40,36,PhD,HR,9.0,Very Good,0.25,High,Mid-Career,Senior
+52,20,Master,Tech,1.0,Poor,0.05,Low,Senior,Mid
+31,1,Bachelor,Sales,4.0,Average,4.0,Low,Mid-Career,Entry
+41,8,PhD,Tech,6.0,Good,0.75,Medium,Mid-Career,Junior
+44,16,High School,HR,6.0,Good,0.375,Medium,Mid-Career,Mid
+46,14,High School,HR,8.0,Very Good,0.5714285714285714,High,Senior,Mid
+47,12,Master,Finance,1.0,Poor,0.08333333333333333,Low,Senior,Mid
+35,23,High School,Tech,7.0,Good,0.30434782608695654,Medium,Mid-Career,Senior
+34,15,Bachelor,HR,1.0,Poor,0.06666666666666667,Low,Mid-Career,Mid
+22,28,Master,Sales,7.0,Good,0.25,Medium,Young,Senior
+56,34,High School,Finance,3.0,Poor,0.08823529411764706,Low,Senior,Senior
+26,2,Master,Sales,8.0,Very Good,4.0,High,Young,Entry
+40,32,High School,Tech,3.0,Poor,0.09375,Low,Mid-Career,Senior
+28,23,High School,Tech,1.0,Poor,0.043478260869565216,Low,Young,Senior
+58,22,High School,Tech,8.0,Very Good,0.36363636363636365,High,Senior,Senior
+37,25,Bachelor,Finance,3.0,Poor,0.12,Low,Mid-Career,Senior
+23,22,Bachelor,HR,2.0,Poor,0.09090909090909091,Low,Young,Senior
+44,22,Master,Finance,1.0,Poor,0.045454545454545456,Low,Mid-Career,Senior
+33,6,High School,Sales,3.0,Poor,0.5,Low,Mid-Career,Junior
+28,15,High School,Finance,2.0,Poor,0.13333333333333333,Low,Young,Mid
+45,37,Bachelor,Sales,2.0,Poor,0.05405405405405406,Low,Mid-Career,Senior
+21,33,High School,Finance,6.0,Good,0.18181818181818182,Medium,Young,Senior
+39,8,Bachelor,HR,1.0,Poor,0.125,Low,Mid-Career,Junior
+47,5,High School,Sales,2.0,Poor,0.4,Low,Senior,Entry
+26,39,Master,Tech,6.0,Good,0.15384615384615385,Medium,Young,Senior
+27,4,High School,Tech,3.0,Poor,0.75,Low,Young,Entry
+54,6,High School,Finance,4.0,Average,0.6666666666666666,Low,Senior,Junior
+33,32,PhD,Tech,1.0,Poor,0.03125,Low,Mid-Career,Senior
+36,30,Bachelor,Sales,8.0,Very Good,0.26666666666666666,High,Mid-Career,Senior
+55,35,High School,Tech,7.0,Good,0.2,Medium,Senior,Senior
+59,16,High School,HR,7.0,Good,0.4375,Medium,Senior,Mid
+23,13,PhD,HR,3.0,Poor,0.23076923076923078,Low,Young,Mid
+21,30,PhD,Finance,10.0,Excellent,0.3333333333333333,High,Young,Senior
+25,19,Bachelor,Sales,10.0,Excellent,0.5263157894736842,High,Young,Mid
+23,17,PhD,HR,3.0,Poor,0.17647058823529413,Low,Young,Mid
+48,19,Master,HR,2.0,Poor,0.10526315789473684,Low,Senior,Mid
+37,28,PhD,Sales,1.0,Poor,0.03571428571428571,Low,Mid-Career,Senior
+45,26,Master,Tech,7.0,Good,0.2692307692307692,Medium,Mid-Career,Senior
+53,37,Bachelor,Tech,7.0,Good,0.1891891891891892,Medium,Senior,Senior
+29,26,Bachelor,Finance,2.0,Poor,0.07692307692307693,Low,Young,Senior
+55,23,Bachelor,Tech,7.0,Good,0.30434782608695654,Medium,Senior,Senior
+33,9,Bachelor,Sales,8.0,Very Good,0.8888888888888888,High,Mid-Career,Junior
+50,12,Bachelor,HR,1.0,Poor,0.08333333333333333,Low,Senior,Mid
+34,1,Master,Tech,9.0,Very Good,9.0,High,Mid-Career,Entry
+27,1,Master,Finance,7.0,Good,7.0,Medium,Young,Entry
+33,34,Bachelor,Tech,3.0,Poor,0.08823529411764706,Low,Mid-Career,Senior
+42,32,PhD,Sales,8.0,Very Good,0.25,High,Mid-Career,Senior
+59,25,High School,Finance,7.0,Good,0.28,Medium,Senior,Senior
+40,1,Bachelor,Tech,8.0,Very Good,8.0,High,Mid-Career,Entry
+35,16,PhD,Finance,6.0,Good,0.375,Medium,Mid-Career,Mid
+37,39,High School,Sales,9.0,Very Good,0.23076923076923078,High,Mid-Career,Senior
+43,5,Bachelor,HR,5.0,Average,1.0,Low,Mid-Career,Entry
+45,22,Bachelor,Sales,3.0,Poor,0.13636363636363635,Low,Mid-Career,Senior
+44,29,Master,Sales,3.0,Poor,0.10344827586206896,Low,Mid-Career,Senior
+48,3,High School,Sales,1.0,Poor,0.3333333333333333,Low,Senior,Entry
+34,12,High School,Sales,8.0,Very Good,0.6666666666666666,High,Mid-Career,Mid
+20,26,PhD,HR,2.0,Poor,0.07692307692307693,Low,Young,Senior
+44,16,Master,HR,3.0,Poor,0.1875,Low,Mid-Career,Mid
+26,37,Master,Finance,8.0,Very Good,0.21621621621621623,High,Young,Senior
+28,22,Master,Tech,8.0,Very Good,0.36363636363636365,High,Young,Senior
+43,29,Master,HR,4.0,Average,0.13793103448275862,Low,Mid-Career,Senior
+20,14,High School,HR,4.0,Average,0.2857142857142857,Low,Young,Mid
+27,28,High School,Tech,5.0,Average,0.17857142857142858,Low,Young,Senior
+43,5,Bachelor,HR,6.0,Good,1.2,Medium,Mid-Career,Entry
+30,30,Bachelor,Sales,5.0,Average,0.16666666666666666,Low,Mid-Career,Senior
+36,5,Master,Sales,7.0,Good,1.4,Medium,Mid-Career,Entry
+27,12,Master,Tech,2.0,Poor,0.16666666666666666,Low,Young,Mid
+54,16,Master,Finance,7.0,Good,0.4375,Medium,Senior,Mid
+54,26,Bachelor,Finance,10.0,Excellent,0.38461538461538464,High,Senior,Senior
+52,26,PhD,Tech,7.0,Good,0.2692307692307692,Medium,Senior,Senior
+24,21,PhD,Tech,1.0,Poor,0.047619047619047616,Low,Young,Senior
+58,39,Bachelor,Sales,7.0,Good,0.1794871794871795,Medium,Senior,Senior
+47,36,Bachelor,Finance,5.0,Average,0.1388888888888889,Low,Senior,Senior
+26,33,Bachelor,HR,3.0,Poor,0.09090909090909091,Low,Young,Senior
+28,30,Bachelor,Sales,3.0,Poor,0.1,Low,Young,Senior
+27,37,Bachelor,Tech,4.0,Average,0.10810810810810811,Low,Young,Senior
+31,23,Bachelor,Finance,2.0,Poor,0.08695652173913043,Low,Mid-Career,Senior
+53,10,Master,HR,2.0,Poor,0.2,Low,Senior,Junior
+52,5,Master,HR,1.0,Poor,0.2,Low,Senior,Entry
+42,36,Master,Sales,5.0,Average,0.1388888888888889,Low,Mid-Career,Senior
+43,34,Master,Finance,4.0,Average,0.11764705882352941,Low,Mid-Career,Senior
+56,31,Bachelor,Finance,10.0,Excellent,0.3225806451612903,High,Senior,Senior
+54,10,PhD,Tech,2.0,Poor,0.2,Low,Senior,Junior
+59,19,High School,Finance,3.0,Poor,0.15789473684210525,Low,Senior,Mid
+41,32,Bachelor,Finance,7.0,Good,0.21875,Medium,Mid-Career,Senior
+46,1,High School,Sales,7.0,Good,7.0,Medium,Senior,Entry
+54,5,PhD,Finance,4.0,Average,0.8,Low,Senior,Entry
+20,4,Master,HR,5.0,Average,1.25,Low,Young,Entry
+54,16,PhD,Sales,5.0,Average,0.3125,Low,Senior,Mid
+56,24,Bachelor,Sales,6.0,Good,0.25,Medium,Senior,Senior
+33,16,Master,Tech,9.0,Very Good,0.5625,High,Mid-Career,Mid
+22,2,Bachelor,Finance,2.0,Poor,1.0,Low,Young,Entry
+20,28,Master,Tech,5.0,Average,0.17857142857142858,Low,Young,Senior
+24,32,High School,HR,3.0,Poor,0.09375,Low,Young,Senior
+45,27,High School,Sales,4.0,Average,0.14814814814814814,Low,Mid-Career,Senior
+33,20,High School,Sales,10.0,Excellent,0.5,High,Mid-Career,Mid
+58,24,PhD,Sales,6.0,Good,0.25,Medium,Senior,Senior
+46,12,Bachelor,HR,8.0,Very Good,0.6666666666666666,High,Senior,Mid
+28,35,PhD,HR,1.0,Poor,0.02857142857142857,Low,Young,Senior
+34,33,High School,Tech,10.0,Excellent,0.30303030303030304,High,Mid-Career,Senior
+34,33,Bachelor,Tech,8.0,Very Good,0.24242424242424243,High,Mid-Career,Senior
+45,37,High School,Tech,7.0,Good,0.1891891891891892,Medium,Mid-Career,Senior
+32,12,PhD,Finance,1.0,Poor,0.08333333333333333,Low,Mid-Career,Mid
+51,3,PhD,Sales,2.0,Poor,0.6666666666666666,Low,Senior,Entry
+58,1,PhD,Sales,3.0,Poor,3.0,Low,Senior,Entry
+51,33,High School,Tech,1.0,Poor,0.030303030303030304,Low,Senior,Senior
+23,10,Bachelor,Sales,9.0,Very Good,0.9,High,Young,Junior
+49,29,Bachelor,Tech,8.0,Very Good,0.27586206896551724,High,Senior,Senior
+56,13,High School,Finance,2.0,Poor,0.15384615384615385,Low,Senior,Mid
+42,12,Bachelor,Finance,9.0,Very Good,0.75,High,Mid-Career,Mid
+58,31,High School,HR,7.0,Good,0.22580645161290322,Medium,Senior,Senior
+34,2,Bachelor,Finance,9.0,Very Good,4.5,High,Mid-Career,Entry
+48,35,Master,Tech,6.0,Good,0.17142857142857143,Medium,Senior,Senior
+55,23,Master,Finance,6.0,Good,0.2608695652173913,Medium,Senior,Senior
+32,17,PhD,HR,4.0,Average,0.23529411764705882,Low,Mid-Career,Mid
+51,26,Master,Sales,10.0,Excellent,0.38461538461538464,High,Senior,Senior
+26,8,Master,Tech,10.0,Excellent,1.25,High,Young,Junior
+41,29,Master,Sales,2.0,Poor,0.06896551724137931,Low,Mid-Career,Senior
+47,26,High School,HR,7.0,Good,0.2692307692307692,Medium,Senior,Senior
+21,10,Master,HR,5.0,Average,0.5,Low,Young,Junior
+25,26,Master,HR,6.0,Good,0.23076923076923078,Medium,Young,Senior
+47,34,PhD,Sales,2.0,Poor,0.058823529411764705,Low,Senior,Senior
+47,7,Master,Sales,5.0,Average,0.7142857142857143,Low,Senior,Junior
+39,4,Master,Sales,10.0,Excellent,2.5,High,Mid-Career,Entry
+49,11,Bachelor,Sales,4.0,Average,0.36363636363636365,Low,Senior,Mid
+30,29,PhD,HR,9.0,Very Good,0.3103448275862069,High,Mid-Career,Senior
+47,36,PhD,HR,6.0,Good,0.16666666666666666,Medium,Senior,Senior
+44,25,PhD,Tech,2.0,Poor,0.08,Low,Mid-Career,Senior
+58,21,PhD,Tech,1.0,Poor,0.047619047619047616,Low,Senior,Senior
+52,36,PhD,Sales,5.0,Average,0.1388888888888889,Low,Senior,Senior
+20,10,PhD,Finance,9.0,Very Good,0.9,High,Young,Junior
+46,37,High School,Finance,6.0,Good,0.16216216216216217,Medium,Senior,Senior
+32,9,Master,HR,10.0,Excellent,1.1111111111111112,High,Mid-Career,Junior
+22,24,PhD,HR,7.0,Good,0.2916666666666667,Medium,Young,Senior
+58,35,Master,HR,5.0,Average,0.14285714285714285,Low,Senior,Senior
+25,35,Master,Tech,10.0,Excellent,0.2857142857142857,High,Young,Senior
+27,36,High School,Tech,6.0,Good,0.16666666666666666,Medium,Young,Senior
+46,18,PhD,HR,5.0,Average,0.2777777777777778,Low,Senior,Mid
+28,39,Bachelor,HR,9.0,Very Good,0.23076923076923078,High,Young,Senior
+56,32,High School,HR,6.0,Good,0.1875,Medium,Senior,Senior
+52,24,Bachelor,Finance,8.0,Very Good,0.3333333333333333,High,Senior,Senior
+43,23,Master,Tech,2.0,Poor,0.08695652173913043,Low,Mid-Career,Senior
+34,32,Master,Finance,9.0,Very Good,0.28125,High,Mid-Career,Senior
+51,37,High School,Finance,5.0,Average,0.13513513513513514,Low,Senior,Senior
+51,12,High School,HR,7.0,Good,0.5833333333333334,Medium,Senior,Mid
+43,13,Bachelor,HR,10.0,Excellent,0.7692307692307693,High,Mid-Career,Mid
+31,23,PhD,Sales,1.0,Poor,0.043478260869565216,Low,Mid-Career,Senior
+58,25,Bachelor,Sales,10.0,Excellent,0.4,High,Senior,Senior
+21,35,High School,Finance,5.0,Average,0.14285714285714285,Low,Young,Senior
+22,30,Bachelor,Tech,10.0,Excellent,0.3333333333333333,High,Young,Senior
+56,17,High School,HR,2.0,Poor,0.11764705882352941,Low,Senior,Mid
+36,20,Bachelor,HR,6.0,Good,0.3,Medium,Mid-Career,Mid
+21,25,High School,Finance,1.0,Poor,0.04,Low,Young,Senior
+21,22,High School,Sales,3.0,Poor,0.13636363636363635,Low,Young,Senior
+47,13,High School,Tech,5.0,Average,0.38461538461538464,Low,Senior,Mid
+42,19,PhD,Sales,4.0,Average,0.21052631578947367,Low,Mid-Career,Mid
+56,36,Bachelor,Sales,3.0,Poor,0.08333333333333333,Low,Senior,Senior
+51,12,Bachelor,Sales,10.0,Excellent,0.8333333333333334,High,Senior,Mid
+52,19,Bachelor,Sales,5.0,Average,0.2631578947368421,Low,Senior,Mid
+20,12,High School,HR,8.0,Very Good,0.6666666666666666,High,Young,Mid
+38,9,Bachelor,HR,4.0,Average,0.4444444444444444,Low,Mid-Career,Junior
+21,7,Bachelor,Sales,1.0,Poor,0.14285714285714285,Low,Young,Junior
+45,28,High School,Tech,7.0,Good,0.25,Medium,Mid-Career,Senior
+51,14,Master,Finance,8.0,Very Good,0.5714285714285714,High,Senior,Mid
+25,31,High School,Tech,3.0,Poor,0.0967741935483871,Low,Young,Senior
+51,19,Bachelor,Tech,6.0,Good,0.3157894736842105,Medium,Senior,Mid
+23,16,High School,Tech,2.0,Poor,0.125,Low,Young,Mid
+30,5,Master,Sales,7.0,Good,1.4,Medium,Mid-Career,Entry
+36,35,High School,HR,8.0,Very Good,0.22857142857142856,High,Mid-Career,Senior
+57,12,Bachelor,Tech,6.0,Good,0.5,Medium,Senior,Mid
+43,25,Master,Sales,6.0,Good,0.24,Medium,Mid-Career,Senior
+24,21,PhD,Tech,5.0,Average,0.23809523809523808,Low,Young,Senior
+53,36,Bachelor,Tech,8.0,Very Good,0.2222222222222222,High,Senior,Senior
+25,23,Master,Sales,1.0,Poor,0.043478260869565216,Low,Young,Senior
+41,16,Master,HR,10.0,Excellent,0.625,High,Mid-Career,Mid
+30,39,PhD,HR,4.0,Average,0.10256410256410256,Low,Mid-Career,Senior
+35,39,High School,Finance,4.0,Average,0.10256410256410256,Low,Mid-Career,Senior
+52,14,High School,Sales,3.0,Poor,0.21428571428571427,Low,Senior,Mid
+28,31,Bachelor,Finance,3.0,Poor,0.0967741935483871,Low,Young,Senior
+25,5,PhD,Finance,4.0,Average,0.8,Low,Young,Entry
+35,35,High School,Finance,1.0,Poor,0.02857142857142857,Low,Mid-Career,Senior
+48,23,PhD,HR,2.0,Poor,0.08695652173913043,Low,Senior,Senior
+22,29,High School,Sales,9.0,Very Good,0.3103448275862069,High,Young,Senior
+39,11,Master,Finance,10.0,Excellent,0.9090909090909091,High,Mid-Career,Mid
+55,18,High School,Sales,2.0,Poor,0.1111111111111111,Low,Senior,Mid
+38,12,PhD,Sales,5.0,Average,0.4166666666666667,Low,Mid-Career,Mid
+45,9,Master,HR,9.0,Very Good,1.0,High,Mid-Career,Junior
+22,10,Master,Finance,9.0,Very Good,0.9,High,Young,Junior
+38,17,Master,Finance,8.0,Very Good,0.47058823529411764,High,Mid-Career,Mid
+39,38,PhD,Sales,1.0,Poor,0.02631578947368421,Low,Mid-Career,Senior
+51,7,Bachelor,Tech,1.0,Poor,0.14285714285714285,Low,Senior,Junior
+26,13,Bachelor,HR,9.0,Very Good,0.6923076923076923,High,Young,Mid
+52,9,Bachelor,HR,8.0,Very Good,0.8888888888888888,High,Senior,Junior
+59,27,PhD,HR,10.0,Excellent,0.37037037037037035,High,Senior,Senior
+58,2,Master,HR,9.0,Very Good,4.5,High,Senior,Entry
+37,5,Bachelor,Finance,7.0,Good,1.4,Medium,Mid-Career,Entry
+59,29,PhD,Finance,3.0,Poor,0.10344827586206896,Low,Senior,Senior
+20,37,Bachelor,Tech,3.0,Poor,0.08108108108108109,Low,Young,Senior
+30,38,High School,HR,2.0,Poor,0.05263157894736842,Low,Mid-Career,Senior
+47,19,Bachelor,HR,5.0,Average,0.2631578947368421,Low,Senior,Mid
+44,8,Bachelor,Sales,3.0,Poor,0.375,Low,Mid-Career,Junior
+42,1,Master,Finance,6.0,Good,6.0,Medium,Mid-Career,Entry
+50,22,PhD,HR,2.0,Poor,0.09090909090909091,Low,Senior,Senior
+49,17,Master,Tech,3.0,Poor,0.17647058823529413,Low,Senior,Mid
+54,7,Master,Tech,5.0,Average,0.7142857142857143,Low,Senior,Junior
+26,25,Master,Finance,1.0,Poor,0.04,Low,Young,Senior
+35,4,Master,Tech,1.0,Poor,0.25,Low,Mid-Career,Entry
+45,36,Master,Tech,10.0,Excellent,0.2777777777777778,High,Mid-Career,Senior
+21,6,Bachelor,Finance,9.0,Very Good,1.5,High,Young,Junior
+20,31,Master,HR,7.0,Good,0.22580645161290322,Medium,Young,Senior
+31,19,Master,HR,1.0,Poor,0.05263157894736842,Low,Mid-Career,Mid
+24,39,PhD,Tech,8.0,Very Good,0.20512820512820512,High,Young,Senior
+56,27,High School,Tech,3.0,Poor,0.1111111111111111,Low,Senior,Senior
+51,10,Bachelor,HR,8.0,Very Good,0.8,High,Senior,Junior
+28,26,Bachelor,Finance,5.0,Average,0.19230769230769232,Low,Young,Senior
+54,19,Bachelor,Tech,1.0,Poor,0.05263157894736842,Low,Senior,Mid
+38,39,Master,Sales,7.0,Good,0.1794871794871795,Medium,Mid-Career,Senior
+35,3,Master,Finance,5.0,Average,1.6666666666666667,Low,Mid-Career,Entry
+22,13,Master,Tech,6.0,Good,0.46153846153846156,Medium,Young,Mid
+39,28,PhD,Tech,6.0,Good,0.21428571428571427,Medium,Mid-Career,Senior
+43,20,High School,Sales,8.0,Very Good,0.4,High,Mid-Career,Mid
+52,28,Master,Sales,9.0,Very Good,0.32142857142857145,High,Senior,Senior
+43,8,High School,HR,2.0,Poor,0.25,Low,Mid-Career,Junior
+30,39,PhD,Finance,9.0,Very Good,0.23076923076923078,High,Mid-Career,Senior
+27,1,Bachelor,Finance,10.0,Excellent,10.0,High,Young,Entry
+55,3,Master,HR,9.0,Very Good,3.0,High,Senior,Entry
+57,13,High School,Finance,10.0,Excellent,0.7692307692307693,High,Senior,Mid
+59,28,High School,Finance,10.0,Excellent,0.35714285714285715,High,Senior,Senior
+39,25,Master,Finance,7.0,Good,0.28,Medium,Mid-Career,Senior
+54,33,Bachelor,Finance,1.0,Poor,0.030303030303030304,Low,Senior,Senior
+44,38,Bachelor,Finance,7.0,Good,0.18421052631578946,Medium,Mid-Career,Senior
+54,6,Bachelor,Sales,10.0,Excellent,1.6666666666666667,High,Senior,Junior
+44,32,PhD,Finance,5.0,Average,0.15625,Low,Mid-Career,Senior
+48,21,High School,Sales,6.0,Good,0.2857142857142857,Medium,Senior,Senior
+37,16,High School,Finance,10.0,Excellent,0.625,High,Mid-Career,Mid
+37,21,High School,HR,7.0,Good,0.3333333333333333,Medium,Mid-Career,Senior
+21,11,PhD,Tech,5.0,Average,0.45454545454545453,Low,Young,Mid
+54,37,High School,Sales,7.0,Good,0.1891891891891892,Medium,Senior,Senior
+35,36,PhD,Finance,9.0,Very Good,0.25,High,Mid-Career,Senior
+55,35,Bachelor,HR,3.0,Poor,0.08571428571428572,Low,Senior,Senior
+52,19,Master,Tech,8.0,Very Good,0.42105263157894735,High,Senior,Mid
+23,20,High School,Sales,2.0,Poor,0.1,Low,Young,Mid
+52,18,High School,Tech,7.0,Good,0.3888888888888889,Medium,Senior,Mid
+33,14,Bachelor,HR,2.0,Poor,0.14285714285714285,Low,Mid-Career,Mid
+40,15,Master,Sales,4.0,Average,0.26666666666666666,Low,Mid-Career,Mid
+39,31,PhD,Tech,7.0,Good,0.22580645161290322,Medium,Mid-Career,Senior
+27,1,Master,Finance,3.0,Poor,3.0,Low,Young,Entry
+26,3,Bachelor,Sales,2.0,Poor,0.6666666666666666,Low,Young,Entry
+22,16,Bachelor,Tech,10.0,Excellent,0.625,High,Young,Mid
+36,23,Master,HR,7.0,Good,0.30434782608695654,Medium,Mid-Career,Senior
+52,11,PhD,HR,1.0,Poor,0.09090909090909091,Low,Senior,Mid
+31,12,PhD,Sales,8.0,Very Good,0.6666666666666666,High,Mid-Career,Mid
+41,10,High School,Tech,3.0,Poor,0.3,Low,Mid-Career,Junior
+41,32,PhD,Sales,2.0,Poor,0.0625,Low,Mid-Career,Senior
+49,16,Master,Sales,3.0,Poor,0.1875,Low,Senior,Mid
+57,8,Bachelor,Tech,5.0,Average,0.625,Low,Senior,Junior
+57,38,High School,Tech,8.0,Very Good,0.21052631578947367,High,Senior,Senior
+27,12,High School,Finance,10.0,Excellent,0.8333333333333334,High,Young,Mid
+46,24,Bachelor,Tech,7.0,Good,0.2916666666666667,Medium,Senior,Senior
+46,28,PhD,HR,7.0,Good,0.25,Medium,Senior,Senior
+53,8,Bachelor,Sales,7.0,Good,0.875,Medium,Senior,Junior
+40,28,PhD,Sales,8.0,Very Good,0.2857142857142857,High,Mid-Career,Senior
+49,36,Bachelor,HR,1.0,Poor,0.027777777777777776,Low,Senior,Senior
+52,26,Master,Tech,4.0,Average,0.15384615384615385,Low,Senior,Senior
+47,8,PhD,HR,6.0,Good,0.75,Medium,Senior,Junior
+52,28,Master,HR,9.0,Very Good,0.32142857142857145,High,Senior,Senior
+24,28,High School,Finance,2.0,Poor,0.07142857142857142,Low,Young,Senior
+38,37,Bachelor,HR,1.0,Poor,0.02702702702702703,Low,Mid-Career,Senior
+23,36,High School,Sales,10.0,Excellent,0.2777777777777778,High,Young,Senior
+54,27,High School,HR,2.0,Poor,0.07407407407407407,Low,Senior,Senior
+36,17,High School,Sales,7.0,Good,0.4117647058823529,Medium,Mid-Career,Mid
+47,9,High School,Sales,3.0,Poor,0.3333333333333333,Low,Senior,Junior
+49,33,Bachelor,Sales,10.0,Excellent,0.30303030303030304,High,Senior,Senior
+48,20,High School,Tech,2.0,Poor,0.1,Low,Senior,Mid
+25,13,Bachelor,Finance,7.0,Good,0.5384615384615384,Medium,Young,Mid
+54,28,Bachelor,Sales,2.0,Poor,0.07142857142857142,Low,Senior,Senior
+56,29,Master,Sales,3.0,Poor,0.10344827586206896,Low,Senior,Senior
+43,13,PhD,Tech,7.0,Good,0.5384615384615384,Medium,Mid-Career,Mid
+48,35,PhD,Sales,4.0,Average,0.11428571428571428,Low,Senior,Senior
+50,6,Bachelor,HR,1.0,Poor,0.16666666666666666,Low,Senior,Junior
+54,18,Master,HR,5.0,Average,0.2777777777777778,Low,Senior,Mid
+52,5,Bachelor,Finance,9.0,Very Good,1.8,High,Senior,Entry
+40,25,Bachelor,Sales,8.0,Very Good,0.32,High,Mid-Career,Senior
+51,2,Bachelor,Tech,9.0,Very Good,4.5,High,Senior,Entry
+42,10,Master,HR,10.0,Excellent,1.0,High,Mid-Career,Junior
+52,30,PhD,Tech,9.0,Very Good,0.3,High,Senior,Senior
+22,5,Master,Tech,7.0,Good,1.4,Medium,Young,Entry
+37,33,High School,HR,4.0,Average,0.12121212121212122,Low,Mid-Career,Senior
+44,1,Master,Tech,5.0,Average,5.0,Low,Mid-Career,Entry
+58,30,Bachelor,Sales,9.0,Very Good,0.3,High,Senior,Senior
+48,11,High School,Tech,4.0,Average,0.36363636363636365,Low,Senior,Mid
+34,28,Bachelor,HR,10.0,Excellent,0.35714285714285715,High,Mid-Career,Senior
+27,25,High School,HR,5.0,Average,0.2,Low,Young,Senior
+40,39,Bachelor,Sales,9.0,Very Good,0.23076923076923078,High,Mid-Career,Senior
+58,33,Master,Finance,8.0,Very Good,0.24242424242424243,High,Senior,Senior
+38,1,PhD,Sales,3.0,Poor,3.0,Low,Mid-Career,Entry
+42,27,High School,Sales,1.0,Poor,0.037037037037037035,Low,Mid-Career,Senior
+30,13,High School,Tech,3.0,Poor,0.23076923076923078,Low,Mid-Career,Mid
+30,3,PhD,Tech,4.0,Average,1.3333333333333333,Low,Mid-Career,Entry
+43,39,High School,Sales,2.0,Poor,0.05128205128205128,Low,Mid-Career,Senior
+55,6,High School,HR,1.0,Poor,0.16666666666666666,Low,Senior,Junior
+59,8,Bachelor,Tech,7.0,Good,0.875,Medium,Senior,Junior
+43,27,High School,Finance,8.0,Very Good,0.2962962962962963,High,Mid-Career,Senior
+22,9,Master,Tech,7.0,Good,0.7777777777777778,Medium,Young,Junior
+41,37,Master,Tech,5.0,Average,0.13513513513513514,Low,Mid-Career,Senior
+21,33,PhD,Finance,1.0,Poor,0.030303030303030304,Low,Young,Senior
+43,24,High School,Sales,7.0,Good,0.2916666666666667,Medium,Mid-Career,Senior
+49,15,PhD,Finance,7.0,Good,0.4666666666666667,Medium,Senior,Mid
+57,32,Master,Sales,9.0,Very Good,0.28125,High,Senior,Senior
+21,32,High School,Sales,3.0,Poor,0.09375,Low,Young,Senior
+40,24,High School,Sales,9.0,Very Good,0.375,High,Mid-Career,Senior
+52,12,PhD,Finance,1.0,Poor,0.08333333333333333,Low,Senior,Mid
+31,39,Master,Sales,1.0,Poor,0.02564102564102564,Low,Mid-Career,Senior
+41,2,High School,HR,4.0,Average,2.0,Low,Mid-Career,Entry
+44,3,PhD,Finance,9.0,Very Good,3.0,High,Mid-Career,Entry
+46,37,Master,HR,6.0,Good,0.16216216216216217,Medium,Senior,Senior
+47,17,PhD,Sales,3.0,Poor,0.17647058823529413,Low,Senior,Mid
+35,2,Bachelor,Tech,1.0,Poor,0.5,Low,Mid-Career,Entry
+34,2,High School,Sales,4.0,Average,2.0,Low,Mid-Career,Entry
+22,28,Bachelor,HR,9.0,Very Good,0.32142857142857145,High,Young,Senior
+56,23,Master,HR,3.0,Poor,0.13043478260869565,Low,Senior,Senior
+26,37,Bachelor,Finance,9.0,Very Good,0.24324324324324326,High,Young,Senior
+40,32,Bachelor,Tech,7.0,Good,0.21875,Medium,Mid-Career,Senior
+28,33,Master,Finance,4.0,Average,0.12121212121212122,Low,Young,Senior
+58,1,PhD,HR,3.0,Poor,3.0,Low,Senior,Entry
+37,19,Bachelor,Sales,10.0,Excellent,0.5263157894736842,High,Mid-Career,Mid
+23,2,PhD,Tech,5.0,Average,2.5,Low,Young,Entry
+44,26,Bachelor,Sales,5.0,Average,0.19230769230769232,Low,Mid-Career,Senior
+33,32,PhD,Sales,3.0,Poor,0.09375,Low,Mid-Career,Senior
+28,6,Master,Tech,9.0,Very Good,1.5,High,Young,Junior
+45,32,Bachelor,Finance,4.0,Average,0.125,Low,Mid-Career,Senior
+21,4,Master,Sales,5.0,Average,1.25,Low,Young,Entry
+39,11,Bachelor,HR,4.0,Average,0.36363636363636365,Low,Mid-Career,Mid
+47,17,Master,Sales,5.0,Average,0.29411764705882354,Low,Senior,Mid
+26,38,Master,Tech,7.0,Good,0.18421052631578946,Medium,Young,Senior
+27,24,Bachelor,Tech,9.0,Very Good,0.375,High,Young,Senior
+54,5,Bachelor,Tech,7.0,Good,1.4,Medium,Senior,Entry
+33,34,Bachelor,Finance,5.0,Average,0.14705882352941177,Low,Mid-Career,Senior
+36,6,High School,Sales,10.0,Excellent,1.6666666666666667,High,Mid-Career,Junior
+55,22,PhD,Finance,10.0,Excellent,0.45454545454545453,High,Senior,Senior
+59,11,High School,Finance,7.0,Good,0.6363636363636364,Medium,Senior,Mid
+23,16,High School,Tech,10.0,Excellent,0.625,High,Young,Mid
+21,33,Master,Tech,5.0,Average,0.15151515151515152,Low,Young,Senior
+25,9,Bachelor,Finance,3.0,Poor,0.3333333333333333,Low,Young,Junior
+23,6,PhD,Sales,7.0,Good,1.1666666666666667,Medium,Young,Junior
+48,16,Master,HR,2.0,Poor,0.125,Low,Senior,Mid
+37,29,High School,Finance,9.0,Very Good,0.3103448275862069,High,Mid-Career,Senior
+45,3,Bachelor,Sales,10.0,Excellent,3.3333333333333335,High,Mid-Career,Entry
+53,20,Master,Tech,10.0,Excellent,0.5,High,Senior,Mid
+29,36,Bachelor,Tech,1.0,Poor,0.027777777777777776,Low,Young,Senior
+55,19,Master,Sales,6.0,Good,0.3157894736842105,Medium,Senior,Mid
+33,26,Bachelor,HR,7.0,Good,0.2692307692307692,Medium,Mid-Career,Senior
+50,3,High School,Tech,8.0,Very Good,2.6666666666666665,High,Senior,Entry
+34,19,PhD,Tech,10.0,Excellent,0.5263157894736842,High,Mid-Career,Mid
+27,20,High School,Tech,9.0,Very Good,0.45,High,Young,Mid
+33,32,PhD,Sales,2.0,Poor,0.0625,Low,Mid-Career,Senior
+42,7,Bachelor,Finance,10.0,Excellent,1.4285714285714286,High,Mid-Career,Junior
+59,33,Master,Tech,2.0,Poor,0.06060606060606061,Low,Senior,Senior
+40,39,High School,Finance,5.0,Average,0.1282051282051282,Low,Mid-Career,Senior
+35,18,PhD,HR,5.0,Average,0.2777777777777778,Low,Mid-Career,Mid
+37,1,High School,Tech,6.0,Good,6.0,Medium,Mid-Career,Entry
+43,11,PhD,Tech,3.0,Poor,0.2727272727272727,Low,Mid-Career,Mid
+45,28,High School,HR,8.0,Very Good,0.2857142857142857,High,Mid-Career,Senior
+44,25,PhD,Tech,1.0,Poor,0.04,Low,Mid-Career,Senior
+48,23,PhD,Finance,6.0,Good,0.2608695652173913,Medium,Senior,Senior
+34,31,Bachelor,Sales,4.0,Average,0.12903225806451613,Low,Mid-Career,Senior
+20,30,PhD,Finance,1.0,Poor,0.03333333333333333,Low,Young,Senior
+44,35,Bachelor,Sales,7.0,Good,0.2,Medium,Mid-Career,Senior
+26,7,PhD,Sales,9.0,Very Good,1.2857142857142858,High,Young,Junior
+28,16,Master,Finance,4.0,Average,0.25,Low,Young,Mid
+43,26,Master,Finance,4.0,Average,0.15384615384615385,Low,Mid-Career,Senior
+20,2,Master,Finance,6.0,Good,3.0,Medium,Young,Entry
+27,1,PhD,Finance,3.0,Poor,3.0,Low,Young,Entry
+43,12,Bachelor,HR,6.0,Good,0.5,Medium,Mid-Career,Mid
+30,5,Bachelor,Tech,7.0,Good,1.4,Medium,Mid-Career,Entry
+36,37,PhD,Sales,10.0,Excellent,0.2702702702702703,High,Mid-Career,Senior
+27,32,Master,Finance,10.0,Excellent,0.3125,High,Young,Senior
+54,9,Master,Finance,3.0,Poor,0.3333333333333333,Low,Senior,Junior
+54,35,Bachelor,Finance,7.0,Good,0.2,Medium,Senior,Senior
+52,19,Master,HR,3.0,Poor,0.15789473684210525,Low,Senior,Mid
+24,16,High School,Finance,2.0,Poor,0.125,Low,Young,Mid
+58,3,Bachelor,Finance,10.0,Excellent,3.3333333333333335,High,Senior,Entry
+47,20,Master,Finance,4.0,Average,0.2,Low,Senior,Mid
+26,24,Bachelor,Tech,8.0,Very Good,0.3333333333333333,High,Young,Senior
+28,33,High School,HR,9.0,Very Good,0.2727272727272727,High,Young,Senior
+27,24,Bachelor,Finance,7.0,Good,0.2916666666666667,Medium,Young,Senior
+31,11,Bachelor,Sales,1.0,Poor,0.09090909090909091,Low,Mid-Career,Mid
+53,8,Bachelor,Sales,3.0,Poor,0.375,Low,Senior,Junior
+52,36,Bachelor,Sales,9.0,Very Good,0.25,High,Senior,Senior
+42,38,High School,HR,1.0,Poor,0.02631578947368421,Low,Mid-Career,Senior
+43,20,PhD,HR,9.0,Very Good,0.45,High,Mid-Career,Mid
+56,35,Bachelor,Sales,8.0,Very Good,0.22857142857142856,High,Senior,Senior
+54,25,Bachelor,Finance,1.0,Poor,0.04,Low,Senior,Senior
+59,35,Master,HR,6.0,Good,0.17142857142857143,Medium,Senior,Senior
+41,25,Bachelor,Sales,5.0,Average,0.2,Low,Mid-Career,Senior
+46,29,Master,Sales,6.0,Good,0.20689655172413793,Medium,Senior,Senior
+54,18,PhD,Finance,10.0,Excellent,0.5555555555555556,High,Senior,Mid
+20,18,High School,Tech,5.0,Average,0.2777777777777778,Low,Young,Mid
+54,2,High School,HR,6.0,Good,3.0,Medium,Senior,Entry
+56,35,PhD,Finance,5.0,Average,0.14285714285714285,Low,Senior,Senior
+33,16,High School,Sales,5.0,Average,0.3125,Low,Mid-Career,Mid
+22,36,PhD,Sales,4.0,Average,0.1111111111111111,Low,Young,Senior
+20,33,PhD,Finance,3.0,Poor,0.09090909090909091,Low,Young,Senior
+24,4,PhD,HR,3.0,Poor,0.75,Low,Young,Entry
+45,33,High School,Tech,4.0,Average,0.12121212121212122,Low,Mid-Career,Senior
+33,14,Master,Tech,9.0,Very Good,0.6428571428571429,High,Mid-Career,Mid
+58,21,PhD,Sales,2.0,Poor,0.09523809523809523,Low,Senior,Senior
+46,20,Bachelor,HR,9.0,Very Good,0.45,High,Senior,Mid
+28,8,High School,Tech,1.0,Poor,0.125,Low,Young,Junior
+34,7,PhD,HR,1.0,Poor,0.14285714285714285,Low,Mid-Career,Junior
+34,3,PhD,HR,5.0,Average,1.6666666666666667,Low,Mid-Career,Entry
+45,17,Bachelor,Sales,6.0,Good,0.35294117647058826,Medium,Mid-Career,Mid
+32,33,Master,Tech,6.0,Good,0.18181818181818182,Medium,Mid-Career,Senior
+51,12,Master,Finance,3.0,Poor,0.25,Low,Senior,Mid
+58,22,Master,Sales,7.0,Good,0.3181818181818182,Medium,Senior,Senior
+51,22,PhD,Tech,9.0,Very Good,0.4090909090909091,High,Senior,Senior
+23,30,PhD,Tech,10.0,Excellent,0.3333333333333333,High,Young,Senior
+49,38,PhD,Tech,8.0,Very Good,0.21052631578947367,High,Senior,Senior
+56,38,High School,Tech,6.0,Good,0.15789473684210525,Medium,Senior,Senior
+42,8,Bachelor,Tech,8.0,Very Good,1.0,High,Mid-Career,Junior
+58,27,PhD,HR,5.0,Average,0.18518518518518517,Low,Senior,Senior
+34,27,Bachelor,Sales,8.0,Very Good,0.2962962962962963,High,Mid-Career,Senior
+48,34,Bachelor,HR,10.0,Excellent,0.29411764705882354,High,Senior,Senior
+55,21,Master,Finance,4.0,Average,0.19047619047619047,Low,Senior,Senior
+32,30,High School,Tech,10.0,Excellent,0.3333333333333333,High,Mid-Career,Senior
+51,33,PhD,Sales,8.0,Very Good,0.24242424242424243,High,Senior,Senior
+26,28,Master,Tech,10.0,Excellent,0.35714285714285715,High,Young,Senior
+41,33,Master,Sales,2.0,Poor,0.06060606060606061,Low,Mid-Career,Senior
+47,5,PhD,HR,5.0,Average,1.0,Low,Senior,Entry
+21,19,Bachelor,Sales,9.0,Very Good,0.47368421052631576,High,Young,Mid
+25,4,Master,Finance,4.0,Average,1.0,Low,Young,Entry
+47,35,Bachelor,Finance,6.0,Good,0.17142857142857143,Medium,Senior,Senior
+47,17,High School,Sales,1.0,Poor,0.058823529411764705,Low,Senior,Mid
+39,28,Bachelor,Sales,9.0,Very Good,0.32142857142857145,High,Mid-Career,Senior
